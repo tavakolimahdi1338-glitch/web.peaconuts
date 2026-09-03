@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه کره مغزها",
+  "description": "فروشگاه اینترنتی تخصصی کره بادام زمینی، کره پسته، کره بادام و فندق ارگانیک با پرداخت کارت به کارت و پنل مدیریت کامل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

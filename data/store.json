@@ -1,0 +1,212 @@
+{
+  "admin": {
+    "email": "admin@store.local",
+    "password_hash": "5ce41ada64f1e8ffb0acfaafa622b141438f3a5777785e7f0b830fb73e40d3d6",
+    "updated_at": "2026-09-03T08:40:22.775Z",
+    "token": "439fcd42f8960447fe5b0a21d68e7641fc33a948c4523ab67a2d30794ec589a6"
+  },
+  "settings": {
+    "store_name": "پیکوناتس",
+    "welcome_text": "طعم ناب و اصیل کره‌های آجیلی خالص؛ فرآوری روزانه و کاملاً ارگانیک بدون شکر و پالم",
+    "about_text": "ما در فروشگاه کره مغزها با عشق و تکیه بر استانداردهای سلامت، تازه‌ترین و غنی‌ترین کره‌های طبیعی بادام زمینی، پسته، بادام و فندق را بدون قطره‌ای روغن صنعتی، شکر یا نگهدارنده تولید می‌کنیم. انتخاب ما سلامت و انرژی روزانه شماست.",
+    "telegram_id": "@Mr_tavakolii",
+    "instagram_id": "@karehmaghzha",
+    "phone": "۰۲۱-۲۲۴۴۶۶۸۸",
+    "address": "تهران، میدان تجریش، خیابان دربند، نبش بن‌بست یاس، کارگاه کره مغزها",
+    "card_number": "۶۰۳۷-۹۹۷۵-۱۲۳۴-۵۶۷۸",
+    "card_holder": "مهدی توکلی",
+    "shipping_cost": 45000,
+    "currency": "تومان",
+    "logo_url": "/uploads/peaconuts_icon.jpg",
+    "hero_title": "کره‌های طبیعی مغزها؛ خالص، تازه و انرژی‌بخش",
+    "hero_subtitle": "آسیاب تازه در حضور مشتری و ارسال سریع در ظروف شیشه‌ای بهداشتی به سراسر کشور"
+  },
+  "products": [
+    {
+      "id": "prod-1788427102476-ecf621",
+      "name": "کره فندق",
+      "description": "بافت عالی",
+      "image_url": "/uploads/upload_1788427092886_0336b8bf.jpg",
+      "delivery_type": "physical",
+      "stock": 50,
+      "active": true,
+      "price_300": 250000,
+      "price_500": 390000,
+      "price_1000": 720000,
+      "discount_300": 0,
+      "discount_500": 0,
+      "discount_1000": 10,
+      "created_at": "2026-09-03T09:18:22.476Z",
+      "updated_at": "2026-09-03T09:18:22.476Z"
+    },
+    {
+      "id": "prod-1788425948951-bf6a22",
+      "name": "کره بادام",
+      "description": "سلام",
+      "image_url": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&q=80&w=800",
+      "delivery_type": "physical",
+      "stock": 19,
+      "active": true,
+      "price_300": 250000,
+      "price_500": 390000,
+      "price_1000": 720000,
+      "discount_300": 10,
+      "discount_500": 0,
+      "discount_1000": 0,
+      "created_at": "2026-09-03T08:59:08.951Z",
+      "updated_at": "2026-09-03T09:14:47.837Z"
+    },
+    {
+      "id": "prod-1788425717152-cf1638",
+      "name": ";vi tkne",
+      "description": "fdvc",
+      "image_url": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&q=80&w=800",
+      "delivery_type": "physical",
+      "stock": 20,
+      "active": true,
+      "price_300": 250000,
+      "price_500": 390000,
+      "price_1000": 720000,
+      "discount_300": 10,
+      "discount_500": 0,
+      "discount_1000": 0,
+      "created_at": "2026-09-03T08:55:17.152Z",
+      "updated_at": "2026-09-03T08:55:17.152Z"
+    },
+    {
+      "id": "p-1",
+      "name": "کره بادام زمینی اعلا (کلاسیک و کرانچی)",
+      "description": "تست ویرایش موفق",
+      "image_url": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&w=800&q=80",
+      "delivery_type": "physical",
+      "stock": 35,
+      "active": true,
+      "price_300": 120000,
+      "price_500": 190000,
+      "price_1000": 360000,
+      "discount_300": 10,
+      "discount_500": 15,
+      "discount_1000": 0,
+      "created_at": "2026-09-03T08:40:22.775Z",
+      "updated_at": "2026-09-03T09:09:02.581Z"
+    },
+    {
+      "id": "p-2",
+      "name": "کره پسته ممتاز رفسنجان (سبز اکبری)",
+      "description": "تهیه شده از مرغوب‌ترین مغز پسته اکبری و کله‌قوچی تازه، با رنگ سبز زمردی طبیعی و رایحه بی‌نظیر. بمب انرژی و سرشار از پروتئین، آهن و آنتی‌اکسیدان.",
+      "image_url": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+      "delivery_type": "physical",
+      "stock": 20,
+      "active": true,
+      "price_300": 390000,
+      "price_500": 640000,
+      "price_1000": 1250000,
+      "discount_300": 0,
+      "discount_500": 8,
+      "discount_1000": 12,
+      "created_at": "2026-09-03T08:40:22.775Z",
+      "updated_at": "2026-09-03T08:40:22.775Z"
+    },
+    {
+      "id": "p-3",
+      "name": "کره بادام درختی تفت داده شده خالص",
+      "description": "تولید شده از بادام ایرانی ارگانیک با برشته‌کاری ملایم بدون هیچ چربی افزوده. طعمی گرم و آجیلی با غلظت عالی، حاوی کلسیم و ویتامین E فراوان برای سلامت قلب و عروق.",
+      "image_url": "https://images.unsplash.com/photo-1620921575116-bbf4c329a1ee?auto=format&fit=crop&w=800&q=80",
+      "delivery_type": "physical",
+      "stock": 15,
+      "active": true,
+      "price_300": 250000,
+      "price_500": 410000,
+      "price_1000": 790000,
+      "discount_300": 5,
+      "discount_500": 10,
+      "discount_1000": 0,
+      "created_at": "2026-09-03T08:40:22.775Z",
+      "updated_at": "2026-09-03T08:40:22.775Z"
+    },
+    {
+      "id": "p-4",
+      "name": "کره فندق شکلاتی طبیعی (بدون پالم)",
+      "description": "ترکیب اعجازانگیز فندق بو داده گیلان، پودر خالص دانه کاکائو تلخ و اندکی شیره خرمای کبکاب طبیعی. بهترین و مقوی‌ترین جایگزین نوتلا برای فرزندان و ورزشکاران.",
+      "image_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "delivery_type": "physical",
+      "stock": 28,
+      "active": true,
+      "price_300": 220000,
+      "price_500": 360000,
+      "price_1000": 0,
+      "discount_300": 10,
+      "discount_500": 10,
+      "discount_1000": 0,
+      "created_at": "2026-09-03T08:40:22.775Z",
+      "updated_at": "2026-09-03T08:40:22.775Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1788426887838-dbcc2c3e",
+      "order_code": "O2609034728",
+      "customer_name": "مهدی توکلی",
+      "phone": "09386452945",
+      "delivery_method": "post",
+      "address": "کرسگان ملاصدرا",
+      "details": "",
+      "items": [
+        {
+          "product_id": "prod-1788425948951-bf6a22",
+          "product_name": "کره بادام",
+          "image_url": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&q=80&w=800",
+          "weight": 300,
+          "quantity": 1,
+          "base_price": 250000,
+          "discount_percent": 10,
+          "unit_price": 225000,
+          "row_total": 225000,
+          "savings_row": 25000
+        }
+      ],
+      "subtotal": 225000,
+      "coupon_code": "WELCOME10",
+      "coupon_discount": 22500,
+      "shipping": 45000,
+      "total": 247500,
+      "savings": 47500,
+      "receipt_url": "/uploads/upload_1788426887374_4692ef3e.jpg",
+      "status": "confirmed",
+      "created_at": "2026-09-03T09:14:47.837Z",
+      "updated_at": "2026-09-03T09:16:13.899Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c-1",
+      "code": "WELCOME10",
+      "type": "percent",
+      "value": 10,
+      "min_order": 200000,
+      "max_uses": 20,
+      "used_count": 1,
+      "expires_at": "2026-09-13T08:40:22.775Z",
+      "active": true,
+      "created_at": "2026-09-03T08:40:22.775Z"
+    }
+  ],
+  "coupon_uses": [
+    {
+      "id": "use-1788426887837-3aff34",
+      "code": "WELCOME10",
+      "phone": "09386452945",
+      "used_at": "2026-09-03T09:14:47.837Z"
+    }
+  ],
+  "tickets": [],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "title": "تخفیف ویژه اعضای جدید فروشگاه",
+      "body": "با وارد کردن کد تخفیف WELCOME10 در مرحله پرداخت، از ۱۰٪ تخفیف روی خرید‌های بالای ۲۰۰,۰۰۰ تومان بهره‌مند شوید!",
+      "active": true,
+      "created_at": "2026-09-03T08:40:22.774Z"
+    }
+  ]
+}
